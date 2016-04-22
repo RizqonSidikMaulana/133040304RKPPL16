@@ -6,16 +6,16 @@ package com.kuis.rkppl.test;
  */
 public class App 
 {
-   private String nama;
+   private String name;
    private String nrp;
    private int usia;
 
     public String getNama() {
-        return nama;
+        return name;
     }
 
     public void setNama(String nama) {
-        this.nama = nama;
+        this.name = nama;
     }
 
     public String getNrp() {
