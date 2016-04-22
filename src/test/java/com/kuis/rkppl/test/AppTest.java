@@ -3,7 +3,7 @@ package com.kuis.rkppl.test;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-
+import com.kuis.rkppl.test.App;
 /**
  * Unit test for simple App.
  */

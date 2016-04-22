@@ -8,7 +8,7 @@ public class App
 {
    private String nama;
    private String nrp;
-   private int umur;
+   private int usia;
 
     public String getNama() {
         return nama;
@@ -27,11 +27,11 @@ public class App
     }
 
     public int getUmur() {
-        return umur;
+        return usia;
     }
 
     public void setUmur(int umur) {
-        this.umur = umur;
+        this.usia = umur;
     }
    
    
