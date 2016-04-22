@@ -7,9 +7,8 @@ import com.kuis.rkppl.test.App;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
-    extends TestCase
-{
+public class AppTest extends TestCase{
+    private static App a;
     /**
      * Create the test case
      *
